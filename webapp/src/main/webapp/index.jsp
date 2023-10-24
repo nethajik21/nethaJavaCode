@@ -5,8 +5,8 @@
 <h2> This is Devops Project!! </h2>
 <h2> we are done with Docker Deployment!! </h2> 
 <h2> This is My Updated Page </h2> 
-<h2> This is Modified file </h2> 
-<h2> This is Second Modified file </h2>
-<h2> This is Third Modified file <h2>
-<h2> This is Fourth Modified file <h2> 
-<h2> This is Fifth Modified file <h2> 
+<h2> This is Modified File </h2> 
+<h2> This is Second Modified File </h2>
+<h2> This is Third Modified File <h2>
+<h2> This is Fourth Modified File <h2> 
+<h2> This is Fifth Modified File <h2> 
